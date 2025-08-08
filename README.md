@@ -1,5 +1,9 @@
 # NesneY-nelimliAnaliz
 <img width="1422" height="777" alt="Ekran görüntüsü 2025-08-08 213330" src="https://github.com/user-attachments/assets/7ab24cce-a361-4c2c-9e2e-ccbc0e0be21d" />
+<img width="1169" height="650" alt="Ekran görüntüsü 2025-08-08 213425" src="https://github.com/user-attachments/assets/7778a54a-005d-4890-8e38-3410bf79f3eb" />
+<img width="1089" height="782" alt="Ekran görüntüsü 2025-08-08 213343" src="https://github.com/user-attachments/assets/a5ab411a-6b22-4f10-ae28-523be4ab96a5" />
+<img width="1109" height="599" alt="Ekran görüntüsü 2025-08-08 213351" src="https://github.com/user-attachments/assets/52b9910c-8ed4-4b6e-8daf-b0d97aad9899" />
+<img width="1169" height="650" alt="Ekran görüntüsü 2025-08-08 213425" src="https://github.com/user-attachments/assets/1e8493c9-c17e-48a3-9877-ee3f0d0e94c9" />
 
 Araba kiralama projem
 BSM 211 VERİTABANI YÖNETİM SİSTEMLERİ
