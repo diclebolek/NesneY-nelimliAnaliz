@@ -1,4 +1,6 @@
 # NesneY-nelimliAnaliz
+<img width="1422" height="777" alt="Ekran görüntüsü 2025-08-08 213330" src="https://github.com/user-attachments/assets/7ab24cce-a361-4c2c-9e2e-ccbc0e0be21d" />
+
 Araba kiralama projem
 BSM 211 VERİTABANI YÖNETİM SİSTEMLERİ
 PROJE ÇALIŞMASI
